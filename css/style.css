@@ -76,7 +76,7 @@ abbr[title],
 abbr[data-original-title] {
   text-decoration: none;
   -webkit-text-decoration: underline dotted;
-  text-decoration: underline dotted;
+  text-decoration: none;
   cursor: help;
   border-bottom: 0;
   text-decoration-skip-ink: none; }
