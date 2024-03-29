@@ -3991,7 +3991,7 @@ input[type="button"].btn-block {
     content: "/"; }
 
 .breadcrumb-item + .breadcrumb-item:hover::before {
-  text-decoration: underline; }
+  text-decoration: none; }
 
 .breadcrumb-item + .breadcrumb-item:hover::before {
   text-decoration: none; }
