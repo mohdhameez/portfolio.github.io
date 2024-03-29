@@ -2456,9 +2456,9 @@ fieldset:disabled a.btn {
   text-decoration: none; }
   .btn-link:hover {
     color: #0056b3;
-    text-decoration: underline; }
+    text-decoration: none; }
   .btn-link:focus, .btn-link.focus {
-    text-decoration: underline;
+    text-decoration: none;
     -webkit-box-shadow: none;
     box-shadow: none; }
   .btn-link:disabled, .btn-link.disabled {
