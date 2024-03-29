@@ -3348,6 +3348,14 @@ input[type="button"].btn-block {
         -webkit-transition: none;
         -o-transition: none;
         transition: none; } }
+.nav-link {
+    text-decoration: none; 
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+    text-decoration: none !important; 
+}
 
 .nav {
     display: -webkit-box;
@@ -3402,7 +3410,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
     color: #fff;
-    background-color: #ffffff; }
+    background-color: #3c84e0; }
 
 .nav-fill .nav-item {
     -webkit-box-flex: 1;
