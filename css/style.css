@@ -6,7 +6,6 @@
     --purple: #6f42c1;
     --pink: #e83e8c;
     --red: #dc3545;
-    --orange: #fd7e14;
     --yellow: #ffc107;
     --green: #28a745;
     --teal: #20c997;
@@ -3354,7 +3353,7 @@ input[type="button"].btn-block {
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link:focus {
-    text-decoration: none !important; 
+    text-decoration: none !important;
 }
 
 .nav {
@@ -8698,4 +8697,3 @@ h1, h2, h3, h4, h5,
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     background: #3e64ff; }
-
